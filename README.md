@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- test
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact)](https://github.com/jumho5/github-readme-stats)
 
 <!---
 junho5/junho5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
