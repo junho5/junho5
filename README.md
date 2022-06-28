@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junho.OH's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
 <br>
-
 <p align="center">
   - 👋 Hi, I’m @junho5<br> 
   - 👀 I’m interested in backend and AI<br>
