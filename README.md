@@ -3,21 +3,18 @@
 
 <div align="center">
 # Life is all about timing
-</div>
 
-<div align="center">
   - 👋 Hi, I’m @Jun-ho OH<br> 
   - 👀 I’m interested in Back-End<br>
   - 🌱 I’m currently learning ...<br> 
   - 💞️ I’m looking to collaborate on ...<br> 
   - 📫 How to reach me ...<br>
-</div>
 
-<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junho5)](https://github.com/junho5/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact)](https://github.com/jumho5/github-readme-stats)
+</div>
 
 
 
