@@ -5,15 +5,13 @@
   # Success is not final. Failure is not fatal.<br>It is the courage to continue that counts.  
 </div>
 
-<p align="center">
+<div align="center">
   - 👋 Hi, I’m @Jun-ho OH<br> 
   - 👀 I’m interested in Back-End<br>
   - 🌱 I’m currently learning ...<br> 
   - 💞️ I’m looking to collaborate on ...<br> 
   - 📫 How to reach me ...<br>
-</p>
-
-<div align=center>
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junho5)](https://github.com/junho5/github-readme-stats)
 
