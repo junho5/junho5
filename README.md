@@ -4,11 +4,11 @@
 <br>
 
 <p align="center">
-  - 👋 Hi, I’m @junho5 
-  - 👀 I’m interested in backend and AI 
-  - 🌱 I’m currently learning ... 
-  - 💞️ I’m looking to collaborate on ... 
-  - 📫 How to reach me ...
+  - 👋 Hi, I’m @junho5<br> 
+  - 👀 I’m interested in backend and AI<br>
+  - 🌱 I’m currently learning ...<br> 
+  - 💞️ I’m looking to collaborate on ...<br> 
+  - 📫 How to reach me ...<br>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact)](https://github.com/jumho5/github-readme-stats)
