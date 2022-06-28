@@ -1,9 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jun-ho&nbsp;OH's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<div align="center">
-  # Success is not final. Failure is not fatal.<br>It is the courage to continue that counts.  
-</div>
+# Life is all about timing 
 
 <div align="center">
   - 👋 Hi, I’m @Jun-ho OH<br> 
