@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jun-ho&nbsp;OH's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <h1 align="center"> Life is all about timing </h1>
@@ -16,18 +15,23 @@
 <Strong>📧Email📧</Strong><br>dhwnsghdhkd@naver.com<br>ojh12395@gmail.com
 </p>
 </div>
+<br>
 
-<div>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center"> Techs that I've used at least once </p>
+<div align="center">
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/>
+	
+### 🛠 Tech Stack 🛠
 <p align="center">
+<Strong>💡used as the main</Strong><br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black">&nbsp
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
 <br>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-
 </p>
 </div>
+
+
