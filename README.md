@@ -3,6 +3,8 @@
 
 <h1 align="center"> Life is all about timing </h1>
 
+# Life is all about timing
+
 <div align="center">
 
   - 👋 Hi, I’m @Jun-ho OH<br> 
