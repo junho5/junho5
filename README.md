@@ -14,7 +14,7 @@
 
 <div float="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=junho5" width=430/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css" width=340/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css" width=350/>
 </div>
 
 
