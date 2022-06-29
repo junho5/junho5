@@ -13,8 +13,8 @@
 <br>
 
 <div float="left">
-<img align="left" height=175 src="https://github-readme-stats.vercel.app/api?username=junho5"/>
-<img align="right" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/>
+<img align="left" height=150 src="https://github-readme-stats.vercel.app/api?username=junho5"/>
+<img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/>
 </div>
 
 
