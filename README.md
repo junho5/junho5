@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/>
+	<img align="right" width=500 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/>
 	
 ### 🛠 Tech Stack 🛠
 <p align="center">
