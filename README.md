@@ -42,6 +42,5 @@
 </div>
 
 <br>
-<br>
 
-<h1 align="center"> ssafy 8기 </h1>
+<h1 align="center"> ssafy 8기 (2022.07.18 ~~ /h1>
