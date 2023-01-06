@@ -4,7 +4,7 @@
 
 <!-- <div align="center">
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=junho5"/> -->
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junho5)](https://github.com/anuraghazra/github-readme-stats)
 	
 ### 👋 Jun-ho OH 👋
 <p align="center">
