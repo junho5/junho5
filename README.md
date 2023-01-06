@@ -2,8 +2,8 @@
 
 <h1 align="center"> Life is all about timing </h1>
 
-<div align="center">
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=junho5&show_icons=true&theme=transparent/>
+<!-- <div align="center">
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=junho5"/> -->
 	
 ### 👋 Jun-ho OH 👋
 <p align="center">
@@ -17,8 +17,8 @@
 </div>
 <br>
 
-<div align="center">
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/>
+<!-- <div align="center">
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/> -->
 	
 ### 🛠 Tech Stack 🛠
 <p align="center">
