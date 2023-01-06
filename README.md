@@ -4,7 +4,7 @@
 
 <!-- <div align="center">
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=junho5"/> -->
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junho5&show_icons=true&theme=radical)
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhwnsghdhkd@naver.com&show_icons=true&theme=radical)
 	
 ### 👋 Jun-ho OH 👋
 <p align="center">
