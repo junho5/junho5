@@ -2,8 +2,9 @@
 
 <h1 align="center"> Life is all about timing </h1>
 
-<div align="center">
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=junho5"/>
+<!-- <div align="center">
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=junho5"/> -->
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 	
 ### 👋 Jun-ho OH 👋
 <p align="center">
