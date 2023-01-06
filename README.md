@@ -3,7 +3,7 @@
 <h1 align="center"> Life is all about timing </h1>
 
 <div align="center">
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=junho5"/>
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=junho5&show_icons=true&theme=transparent/>
 	
 ### 👋 Jun-ho OH 👋
 <p align="center">
