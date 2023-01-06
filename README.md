@@ -16,7 +16,7 @@
 </p>
 </div>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junho5)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css)]
 <div align="center">
 	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/>
 	
