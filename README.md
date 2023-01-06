@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jun-ho&nbsp;OH's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <h1 align="center"> Life is all about timing </h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junho5&show_icons=true&theme=radical)
 <div align="center">
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=junho5&show_icons=true&theme=radical"/>
 	
@@ -18,8 +17,8 @@
 </div>
 <br>
 
-<!-- <div align="center">
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/> -->
+<div align="center">
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/>
 	
 ### 🛠 Tech Stack 🛠
 <p align="center">
