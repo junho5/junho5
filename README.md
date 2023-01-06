@@ -20,6 +20,8 @@
 <div align="center">
 	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css"/>
 	
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junho5&layout=compact&hide=css)](https://github.com/junho5/github-readme-stats)
+	
 ### 🛠 Tech Stack 🛠
 <p align="center">
 <Strong>💡used as the main</Strong><br>
