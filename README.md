@@ -45,6 +45,6 @@
 <br>
 <br>
 
-<h1 align="center"> ssafy 8기 (2022.07.13 ~~ ) </h1>
+<h1 align="center"> ssafy 8기 (2022.07.13 ~~ 2023.04.30 ) </h1>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwnsghdhkd)](https://solved.ac/dhwnsghdhkd/)
